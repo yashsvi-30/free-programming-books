@@ -2,6 +2,9 @@
 
 * [C](#C)
 * [C++](#C++)
+* [Java](#Java)
+* [Javascript](#Javascript)
+* [Python](#Python)
 
 
 ### C
@@ -12,6 +15,11 @@
 ### C++
 
 * [The Complete C++ Course | Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### Java
+
+* [Introduction to Java for beginners in Hindi](https://www.youtube.com/watch?v=ntLJmHOJ0ME&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)  -  Harry
 
 
 ### Python
